@@ -1,3 +1,6 @@
+### Installations
+Run **npm install** to install node modules
+
 ### `npm run dev`
 
 Runs the app in the development mode.\
